@@ -25,7 +25,6 @@ comment "Add weapons";
 this addWeapon "arifle_MXM_Hamr_LP_BI_F";
 this addPrimaryWeaponItem "muzzle_snds_H";
 this addPrimaryWeaponItem "optic_Arco";
-this addPrimaryWeaponItem "bipod_01_F_snd";
 this addWeapon "hgun_P07_F";
 this addWeapon "Rangefinder";
 
