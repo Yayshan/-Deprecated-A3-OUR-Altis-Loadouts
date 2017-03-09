@@ -1,4 +1,4 @@
-comment "OUR Altis Loadout for BLUEFOR VehicleCrew by [FS]Yoshi";
+comment "OUR Altis Loadout for BLUEFOR ArmoredVehicleCrew by Yoshi";
 
 comment "Remove existing items";
 removeAllWeapons this;

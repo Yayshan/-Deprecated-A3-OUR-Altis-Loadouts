@@ -1,4 +1,4 @@
-comment "OUR Altis Loadout for OPFOR HeliPilot by [FS]Yoshi";
+comment "OUR Altis Loadout for OPFOR HeliPilot by Yoshi";
 
 comment "Remove existing items";
 removeAllWeapons this;
