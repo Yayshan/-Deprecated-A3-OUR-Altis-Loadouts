@@ -33,4 +33,4 @@ _this linkItem "ItemCompass";
 _this linkItem "ItemWatch";
 _this linkItem "ItemRadioAcreFlagged";
 _this linkItem "NVGoggles";
-_this linkItem "B_UavTerminal";
+_this linkItem "O_UavTerminal";
